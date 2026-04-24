@@ -4,3 +4,4 @@ Tendencia alta a ser Descontinuado/Olvidado
 El Git Commit guarda los archivos preparados previamente con git add en el historial (log) del repositorio
 el Git Add prepara los archivos seleccionados para ser guardados
 En este mensaje, aviso que cambie el README desde el editor de github
+Se produjo un error al querer unir las ramas feature/contacto y bugfix/titulo ya que ambas cambiaban el archivo index.html, github marco las lineas en conflicto dentro del archivo para indicar que pertenecian a X rama, 
